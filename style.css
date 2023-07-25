@@ -59,6 +59,7 @@ main > *:nth-child(2) {
 
     main {
         max-width: 33.75rem;
+        background-color: #313A48;
     }
 
     button:hover {
